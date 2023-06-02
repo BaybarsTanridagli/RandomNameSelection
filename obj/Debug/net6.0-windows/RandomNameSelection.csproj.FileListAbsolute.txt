@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\RandomNameSelection\bin\Debug\net6.0-windows\RandomNameSelection.exe
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\RandomNameSelection\bin\Debug\net6.0-windows\RandomNameSelection.deps.json
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\RandomNameSelection\bin\Debug\net6.0-windows\RandomNameSelection.runtimeconfig.json
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\RandomNameSelection\bin\Debug\net6.0-windows\RandomNameSelection.dll
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\RandomNameSelection\bin\Debug\net6.0-windows\RandomNameSelection.pdb
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\RandomNameSelection\obj\Debug\net6.0-windows\RandomNameSelection.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\RandomNameSelection\obj\Debug\net6.0-windows\RandomNameSelection.Form1.resources
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\RandomNameSelection\obj\Debug\net6.0-windows\RandomNameSelection.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\RandomNameSelection\obj\Debug\net6.0-windows\RandomNameSelection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\RandomNameSelection\obj\Debug\net6.0-windows\RandomNameSelection.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\RandomNameSelection\obj\Debug\net6.0-windows\RandomNameSelection.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\RandomNameSelection\obj\Debug\net6.0-windows\RandomNameSelection.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\RandomNameSelection\obj\Debug\net6.0-windows\RandomNameSelection.dll
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\RandomNameSelection\obj\Debug\net6.0-windows\refint\RandomNameSelection.dll
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\RandomNameSelection\obj\Debug\net6.0-windows\RandomNameSelection.pdb
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\RandomNameSelection\obj\Debug\net6.0-windows\RandomNameSelection.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\RandomNameSelection\obj\Debug\net6.0-windows\ref\RandomNameSelection.dll
